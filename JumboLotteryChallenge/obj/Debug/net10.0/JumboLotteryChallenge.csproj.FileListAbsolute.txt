@@ -1,0 +1,14 @@
+/Users/asantos/Documents/Jumbo Assessment/JumboLotteryChallenge/bin/Debug/net10.0/JumboLotteryChallenge
+/Users/asantos/Documents/Jumbo Assessment/JumboLotteryChallenge/bin/Debug/net10.0/JumboLotteryChallenge.deps.json
+/Users/asantos/Documents/Jumbo Assessment/JumboLotteryChallenge/bin/Debug/net10.0/JumboLotteryChallenge.runtimeconfig.json
+/Users/asantos/Documents/Jumbo Assessment/JumboLotteryChallenge/bin/Debug/net10.0/JumboLotteryChallenge.dll
+/Users/asantos/Documents/Jumbo Assessment/JumboLotteryChallenge/bin/Debug/net10.0/JumboLotteryChallenge.pdb
+/Users/asantos/Documents/Jumbo Assessment/JumboLotteryChallenge/obj/Debug/net10.0/JumboLotteryChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asantos/Documents/Jumbo Assessment/JumboLotteryChallenge/obj/Debug/net10.0/JumboLotteryChallenge.AssemblyInfoInputs.cache
+/Users/asantos/Documents/Jumbo Assessment/JumboLotteryChallenge/obj/Debug/net10.0/JumboLotteryChallenge.AssemblyInfo.cs
+/Users/asantos/Documents/Jumbo Assessment/JumboLotteryChallenge/obj/Debug/net10.0/JumboLotteryChallenge.csproj.CoreCompileInputs.cache
+/Users/asantos/Documents/Jumbo Assessment/JumboLotteryChallenge/obj/Debug/net10.0/JumboLotteryChallenge.dll
+/Users/asantos/Documents/Jumbo Assessment/JumboLotteryChallenge/obj/Debug/net10.0/refint/JumboLotteryChallenge.dll
+/Users/asantos/Documents/Jumbo Assessment/JumboLotteryChallenge/obj/Debug/net10.0/JumboLotteryChallenge.pdb
+/Users/asantos/Documents/Jumbo Assessment/JumboLotteryChallenge/obj/Debug/net10.0/JumboLotteryChallenge.genruntimeconfig.cache
+/Users/asantos/Documents/Jumbo Assessment/JumboLotteryChallenge/obj/Debug/net10.0/ref/JumboLotteryChallenge.dll
